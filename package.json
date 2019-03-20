@@ -1,0 +1,19 @@
+{
+  "name": "gabrielsstepcounter",
+  "version": "1.0.1",
+  "description": "Uses the step counter service APIs introduced in Android 4.4 KitKat to, you guessed it, count the number of steps whomever is holding the device running your app takes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielAras/gabrielsstepcounter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielAras/gabrielsstepcounter/issues"
+  },
+  "homepage": "https://github.com/GabrielAras/gabrielsstepcounter#readme"
+}
